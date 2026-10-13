@@ -1,6 +1,6 @@
 # 吳旻翰 (Ming-Han Wu)
 **應徵職位：韌體工程師 (Firmware Engineer) | 物聯網無線模組**
-聯絡電話： ｜ Email： ｜ 居住地：
+聯絡電話： ｜ Email：
 
 ---
 
